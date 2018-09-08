@@ -9,6 +9,7 @@ public class Fblogin {
 	{
 		
 		System.out.println("set up has been done");
+		System.out.println("Git hub has been set and here we go!");
 		
 	}
 
